@@ -1,1 +1,1 @@
-command: compliment1
+command: compliment2
